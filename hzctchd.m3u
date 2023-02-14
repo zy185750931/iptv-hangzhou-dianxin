@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://yourhost/iptv-logo/CCTV1.png" group-title="央视高清",CCTV1
 http://10.11.11.1:9999/udp/233.50.201.118:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://yourhost/iptv-logo/CCTV2.png" group-title="央视高清",CCTV2
